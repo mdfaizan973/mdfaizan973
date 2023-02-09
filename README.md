@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/><br/>
 
 
-<a><img alt="Sneha Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdfaizan973&theme=react-dark&hide_border=true" /></a>
+<a><img alt="Faizan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdfaizan973&theme=react-dark&hide_border=true" /></a>
 
 
 <br/>
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <p>
   <br/>
 <div align="center" >
-<a href="https://www.linkedin.com/in/sneha-lata-nayak-1b1914242/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="mailto:gmail.com/faizan.md9735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 </div>
 <br/><br/><br/>
