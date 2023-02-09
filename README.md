@@ -104,6 +104,7 @@ Here are some ideas to get you started:
 <div align="center" >
 <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="mailto:gmail.com/faizan.md9735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
+ <a href="mailto:gmail.com/faizan.md9735@gmail.com"><img src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 </div>
 <br/><br/><br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
