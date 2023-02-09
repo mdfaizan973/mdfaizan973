@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman&logoColor=61DAFB" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
