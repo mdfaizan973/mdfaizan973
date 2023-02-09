@@ -93,9 +93,8 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/><br/>
 
 
- 
+<a><img alt="Sneha Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdfaizan973&theme=react-dark&hide_border=true" /></a>
 
-<a><img alt="faizan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?mdfaizan973&theme=react-dark&hide_border=true" /></a>
 
 <br/>
 <h2>## ❤️ Let's get connected:</h2>
