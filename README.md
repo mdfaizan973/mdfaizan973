@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/><br/>
 
 
-<a><img alt="Faizan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdfaizan973&theme=react-dark&hide_border=true" /></a>
+<a target="_blank ><img alt="Faizan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdfaizan973&theme=react-dark&hide_border=true" /></a>
 
 
 <br/>
