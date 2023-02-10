@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  <div >
-<img src="https://komarev.com/ghpvc/?username=mdfaizan973&&style=flat-square" align="center" />
+<img padding="20px" src="https://komarev.com/ghpvc/?username=mdfaizan973&&style=flat-square" align="center" />
 </div>
 <p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
 
