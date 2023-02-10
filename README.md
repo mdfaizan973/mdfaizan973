@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ <div >
+<img src="https://komarev.com/ghpvc/?username=mdfaizan973&&style=flat-square" align="center" />
+</div>
 <p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
