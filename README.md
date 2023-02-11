@@ -41,21 +41,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- <h1 align="center"> <img width="45" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2640-fe0f.png"/> Hello everyone <img  width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-bowing-medium-light-skin-tone_1f647-1f3fc-200d-2640-fe0f.png"/></h1>
-<h3 align="center"><img width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/twitter/348/woman-technologist-medium-light-skin-tone_1f469-1f3fc-200d-1f4bb.png"/>A passionate Full-Stack Developer from India <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/></h3>
-
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
-                                                       
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hourglass-not-done_23f3.png"/> I’m currently working on **MySkill** <img width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-juggling-medium-light-skin-tone_1f939-1f3fc-200d-2640-fe0f.png"/> 
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif"/> I’m currently learning <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-halo_1f607.gif"/> **Full-Stack Web Development**   <img width=25 src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/collision_1f4a5.gif"/>
-- 💬 Ask me about <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hugging-face_1f917.png"/> **Front-End** <img width="27" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-surfing-medium-light-skin-tone_1f3c4-1f3fc-200d-2640-fe0f.png"/>
-- <img  width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/facebook/327/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png"/> Some of my projects are available at [My Portfolio] <img width="20" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
--  📄 Know about my experiences [My Resume] <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/bomb_1f4a3.png"/>
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png"/> How to reach me: ...**faizan.md9735@gmail.com** <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/love-letter_1f48c.png"/>
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face_1f609.png"/> Fun fact: ...Always smile <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rolling-on-the-floor-laughing_1f923.png"/> in tough situation <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/face-with-spiral-eyes_1f635-200d-1f4ab.gif"/>
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/revolving-hearts_1f49e.gif"/> I love designing websites and coding. <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/heart-hands_light-skin-tone_1faf6-1f3fb_1f3fb.png"/>
-
-<br/><br/> -->
 
 
 
@@ -149,12 +134,9 @@ Here are some ideas to get you started:
 <h2>## ❤️ Let's get connected:</h2>
  
  <p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
+</p>
 
 
   <br/>
