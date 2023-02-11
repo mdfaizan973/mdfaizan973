@@ -63,6 +63,8 @@
 <br/>
 <!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
  </div>
+<!-- <div width="2000"><img src="https://github-trophies.vercel.app/?username=mdfaizan973&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></div> -->
+  
 </div>
 
 <br/>
