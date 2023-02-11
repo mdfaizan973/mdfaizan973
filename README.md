@@ -127,7 +127,7 @@ Here are some ideas to get you started:
   <img   height="185px" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" />
  </a>
  <img  height="185px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
-<img  height="185px" src="https://user-images.githubusercontent.com/106812942/218262970-5d70ffa5-fb2f-4350-9f2c-b9af16a43aca.png" />
+<img  height="185px" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" />
 
 </div>
 <h2>## ❤️ Let's get connected:</h2>
