@@ -124,10 +124,10 @@ Here are some ideas to get you started:
 <h2>## 💻 My Projects 💻</h2>
 <div align= "center"  display="flex" >
  <a target="_blank" href="https://my-skincares.netlify.app/index.html">
-  <img   height="200px" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" />
+  <img   height="170px" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" />
  </a>
- <img  height="200px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
-<img  height="200px" src="https://user-images.githubusercontent.com/106812942/218262970-5d70ffa5-fb2f-4350-9f2c-b9af16a43aca.png" />
+ <img  height="170px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
+<img  height="170px" src="https://user-images.githubusercontent.com/106812942/218262970-5d70ffa5-fb2f-4350-9f2c-b9af16a43aca.png" />
 
 </div>
 <h2>## ❤️ Let's get connected:</h2>
