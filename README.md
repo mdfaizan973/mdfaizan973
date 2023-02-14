@@ -42,18 +42,31 @@
 <br/>
 <img src="https://img.shields.io/badge/React -282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />
    <img src="https://img.shields.io/badge/ChakaraUI -282C34?logo=chakraui&logoColor=61DAFB" alt="React  logo" title="React" height="25" />
-<!--   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/> -->
-<!--  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" /> -->
    <img src="https://img.shields.io/badge/React_Router-282C34?logo=react-router&logoColor=E34F26" alt="react logo" title="React Router" height="25" />
-<!--   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/> -->
+   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
    
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/> -->
    <img src="https://img.shields.io/badge/Not Yet-282C34?logo=danger&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
+<!-- &nbsp; -->
+    
+<!--     <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> -->
+<!-- &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /> -->
+<!-- &nbsp; -->
+<!--     <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /> -->
+<!-- &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" /> -->
+<!-- &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /> -->
+<!-- &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> -->
+<!-- &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /> -->
+<!-- &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /> -->
+
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
