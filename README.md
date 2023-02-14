@@ -57,11 +57,11 @@
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
-<!--    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/> -->
-    <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="HTML5 logo" title="Not Yet" height="25" />
-  <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+    <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="netlify logo" title="Netlyfi" height="25" />
+  <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Postman" height="25" />
+     <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="HTML5 logo" title="Postman" height="25" />
+<img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=white" alt="npm logo" title="npm" height="25" />
+<!-- <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm"> -->
    <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
    <br/>
 <br/>
