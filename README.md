@@ -61,8 +61,8 @@
   <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Postman" height="25" />
      <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="HTML5 logo" title="Postman" height="25" />
 <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=white" alt="npm logo" title="npm" height="25" />
-<!-- <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm"> -->
    <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+    <img src="https://img.shields.io/badge/codepen-282C34?logo=codepen&logoColor=white" alt="codepen logo" title="codepen" height="25" />
    <br/>
 <br/>
 <!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
