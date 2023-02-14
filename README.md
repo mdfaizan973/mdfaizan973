@@ -48,7 +48,7 @@
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-   <img src="https://img.shields.io/badge/Not Yet-282C34?logo=danger&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
+   <img src="https://img.shields.io/badge/Not Yet-282C34?logo=wrong&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
 <!-- &nbsp; -->
     
 <!--     <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> -->
@@ -88,7 +88,7 @@
 <br/>
  
   
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="center">🗽 My Github Stats</h2>
    
 <p align="">
    
