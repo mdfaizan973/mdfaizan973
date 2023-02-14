@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/React -282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />
    <img src="https://img.shields.io/badge/ChakaraUI -282C34?logo=chakraui&logoColor=61DAFB" alt="React  logo" title="React" height="25" />
    <img src="https://img.shields.io/badge/React_Router-282C34?logo=react-router&logoColor=E34F26" alt="react logo" title="React Router" height="25" />
-   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+   <img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
    
 </div>
  <br/>
@@ -76,6 +76,7 @@
 <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=white" alt="npm logo" title="npm" height="25" />
    <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
     <img src="https://img.shields.io/badge/codepen-282C34?logo=codepen&logoColor=white" alt="codepen logo" title="codepen" height="25" />
+    <img src="https://img.shields.io/badge/replit-282C34?logo=replit&logoColor=white" alt="replit logo" title="replit" height="25" />
    <br/>
 <br/>
 <!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
