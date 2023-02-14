@@ -53,11 +53,12 @@
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/> -->
-<!--    <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" /> -->
+   <img src="https://img.shields.io/badge/Not Yet-282C34?logo=danger&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+<!--    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/> -->
+    <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="HTML5 logo" title="Not Yet" height="25" />
   <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
