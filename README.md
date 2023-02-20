@@ -101,7 +101,7 @@
    <a target="_blank" href="https://fzshoes.netlify.app/"> 
  <img  height="172px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
   </a>
-  <a target="_blank" href="[https://fzshoes.netlify.app/](https://spectacular-entremet-a93f43.netlify.app/index.html)"> 
+  <a target="_blank" href="https://spectacular-entremet-a93f43.netlify.app/index.html"> 
 <img  height="172px" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" />
   </a>
 
