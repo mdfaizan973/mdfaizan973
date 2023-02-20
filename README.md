@@ -49,23 +49,6 @@
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
    <img src="https://img.shields.io/badge/Not Yet-282C34?logo=wrong&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
-<!-- &nbsp; -->
-    
-<!--     <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> -->
-<!-- &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /> -->
-<!-- &nbsp; -->
-<!--     <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /> -->
-<!-- &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" /> -->
-<!-- &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /> -->
-<!-- &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> -->
-<!-- &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /> -->
-<!-- &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /> -->
 
  </div>
   
@@ -115,7 +98,9 @@
  <a target="_blank" href="https://my-skincares.netlify.app/index.html">   
  <img   height="173px" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" />
 </a>
+   <a target="_blank" href="https://fzshoes.netlify.app/"> 
  <img  height="172px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
+  </a>
 <img  height="172px" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" />
 
 </div>
