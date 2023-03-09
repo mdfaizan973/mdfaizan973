@@ -3,7 +3,7 @@
 <div>
   <img padding="20px" src="https://komarev.com/ghpvc/?username=mdfaizan973&&style=flat-square" align="center" />
  </div>
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
  <h1 align="center"> <img width="45" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2640-fe0f.png"/> Hello Everyone <img  width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-bowing-medium-light-skin-tone_1f647-1f3fc-200d-2640-fe0f.png"/></h1>
 <h3 align="center"><img width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/twitter/348/woman-technologist-medium-light-skin-tone_1f469-1f3fc-200d-1f4bb.png"/>A passionate Full-Stack Developer from India <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/></h3>
 
@@ -139,4 +139,4 @@
 
 </div>
 <br/><br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
