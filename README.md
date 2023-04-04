@@ -52,7 +52,7 @@
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
    <img src="https://img.shields.io/badge/Not Yet-282C34?logo=wrong&logoColor=E34F26" alt="HTML5 logo" title="Not Yet" height="25" />
-
+<img src="https://img.shields.io/badge/node.js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
