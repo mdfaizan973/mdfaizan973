@@ -111,7 +111,7 @@
 <h2>## 💻 My Projects 💻</h2>
 <div align= "center"  display="flex" >
 
- <a target="_blank" href="https://my-skincares.netlify.app/index.html">   
+<!--  <a target="_blank" href="https://my-skincares.netlify.app/index.html">   
  <img   height="173px" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" />
 </a>
    <a target="_blank" href="https://fzshoes.netlify.app/"> 
@@ -126,7 +126,7 @@
   
  <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/"> 
 <img  height="172px" src="https://user-images.githubusercontent.com/106812942/229482067-fc289bf3-4d15-478c-81ea-aebd54b5950e.jpg" />
-  </a>
+  </a> -->
 
 
 </div>
