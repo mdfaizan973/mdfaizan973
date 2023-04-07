@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-faizan-380a65246/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="blank"><img align="center" src="https://camo.githubusercontent.com/75ea4dab0b44b1d5bce1f659dc7e20d7025261d490f7164d4ae1d4eba817c34c/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3332302f66616365626f6f6b2f3332372f666c61672d696e6469615f31663165652d31663166332e706e67 " alt="https://www.linkedin.com/in/md-faizan-380a65246/" height="30" width="40" /></a>
 </p>
 
 
