@@ -14,8 +14,18 @@
 - 💬 Ask me about <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hugging-face_1f917.png"/> **Front-End** <img width="27" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-surfing-medium-light-skin-tone_1f3c4-1f3fc-200d-2640-fe0f.png"/>
 - <img  width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/facebook/327/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png"/> Some of my projects are available at [My Portfolio] 
 - https://mdfaizan973.github.io/
-- <br/>
-- LinkedIn - https://www.linkedin.com/in/md-faizan-380a65246/
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-faizan-380a65246/" height="30" width="40" /></a>
+</p>
+
+
+
+
 -   <img width="20" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 -  📄 Know about my experiences [My Resume] <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/bomb_1f4a3.png"/>
 - <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png"/> How to reach me: ...**faizan.md9735@gmail.com** <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/love-letter_1f48c.png"/>
