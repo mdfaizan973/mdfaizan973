@@ -97,7 +97,7 @@
 
 <br/>
 <br/>
-<!-- <h2>## 💻 My Projects 💻</h2>
+<h2>## 💻 My Projects 💻</h2>
 <div align= "center"  display="flex" >
 
  <a target="_blank" href="https://my-skincares.netlify.app/index.html">   
@@ -118,7 +118,7 @@
   </a>
 
 
-</div> -->
+</div>
 <div>
 <h2 align="center">🤝 Support</h2>
 
@@ -136,10 +136,10 @@
 </div>
 <h2>## ❤️ Let's get connected:</h2>
  
-<!--  <p align='center'>
+ <p align='center'>
    <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a  target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</p> -->
+</p>
 
 
   <br/>
