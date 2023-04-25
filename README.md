@@ -1,32 +1,30 @@
-<h1 align="center">Hi 👋, I'm Md Faizan</h1>
+### Hi there 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
-</p>
+<div>
+  <img padding="20px" src="https://komarev.com/ghpvc/?username=mdfaizan973&&style=flat-square" align="center" />
+ </div>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
+ <h1 align="center">🗽Hello Everyone 🗽</h1>
+<h3 align="center"><img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/>A passionate Full-Stack Developer from India <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/></h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaizan973&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhn12" /> </p>
+- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hourglass-not-done_23f3.png"/> I’m currently working on **MySkill** <img width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-juggling-medium-light-skin-tone_1f939-1f3fc-200d-2640-fe0f.png"/>
+- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif"/> I’m currently learning 👨‍💻 <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-halo_1f607.gif"/> **Full-Stack Web Development**   <img width=25 src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/collision_1f4a5.gif"/>
+- 💬 Ask me about <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hugging-face_1f917.png"/> **Front-End** <img width="27" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-surfing-medium-light-skin-tone_1f3c4-1f3fc-200d-2640-fe0f.png"/>
+- <img  width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/facebook/327/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png"/> Some of my projects are available at [[My Portfolio](https://mdfaizan973.github.io/)]
+-  📄 Know about my experiences [My Resume] <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/bomb_1f4a3.png"/>
+- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png"/> How to reach me: ...**faizan.md9735@gmail.com** <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/love-letter_1f48c.png"/>
+- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face_1f609.png"/> Fun fact: ...Always smile <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rolling-on-the-floor-laughing_1f923.png"/> in tough situation <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/face-with-spiral-eyes_1f635-200d-1f4ab.gif"/>
+- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/revolving-hearts_1f49e.gif"/> I love designing websites and coding. <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/heart-hands_light-skin-tone_1faf6-1f3fb_1f3fb.png"/>
 
-- 🌱 I’m currently learning **MERN stack development**
+<!-- <img width="20" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> -->
+- <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="blank">LinkedIn-➡️</a>
 
-- 👨‍💻 All of my projects are available at [https://mdfaizan973.github.io/](https://mdfaizan973.github.io/)
+<br/><br/>
 
-- 💬 Ask me about **React,JavaScript**
+ <div >
 
-<!-- - 📫 How to reach me nawadekaustubh@gmail.com -->
-
-<!-- - 📄 Know about my experiences:-[My Resume](https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link) -->
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kaustubh-nawade-1307751a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh nawade" height="30" width="40" /></a>
-</p> -->
-
-<p align="left">
-</p>
 </div>
 <p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
 
@@ -66,38 +64,17 @@
     <img src="https://img.shields.io/badge/replit-282C34?logo=replit&logoColor=white" alt="replit logo" title="replit" height="25" />
    <br/>
 <br/>
+<!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
+ </div>
+<!-- <div width="2000"><img src="https://github-trophies.vercel.app/?username=mdfaizan973&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></div> -->
 
-<h3 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" /></i></h3>
-<!-- <p align="center"> -->
-<!--       <a href="https://www.linkedin.com/in/kaustubh-nawade-1307751a0/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="visha" ></a>
-      <a title="nawadekaustubh@gmail.com" href="mailto:nawadekaustubh@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="visha" >
-      </a>      
-      <a title="portfolio" href="https://kaustubhn12.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
-      </a>
-
-&nbsp; -->
-
-<!-- <p align="center">
-<picture  >
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true" />
-</picture>
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&hide=scss&theme=tokyonight)
 </div>
-</p> -->
 
-<h2 align="center">🗽 My Github Stats</h2>
+<br/>
+<br/>
+
+
+ <h2 align="center">🗽 My Github Stats</h2>
 <p align="">
  <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan973&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
   <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan973&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
@@ -131,8 +108,32 @@
 <img  height="172px" src="https://user-images.githubusercontent.com/106812942/229482067-fc289bf3-4d15-478c-81ea-aebd54b5950e.jpg" />
   </a>
 
+</div> 
+
+<div>
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 </div>
+<h2>## ❤️ Let's get connected:</h2>
 
+ <p align='center'>
+   <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a  target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
+  <br/>
 
-
+</div>
+<br/><br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
