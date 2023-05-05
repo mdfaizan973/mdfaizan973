@@ -50,9 +50,9 @@
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3>
-    <img src="https://img.shields.io/badge/node.js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/express.js -282C34?logo=express.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/MongoDB -282C34?logo=mongodb&logoColor=green" alt="mongo DB  logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/Node js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/Express.js -282C34?logo=express&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/MongoDB -282C34?logo=mongodb&logoColor=grey" alt="mongo DB  logo" title="Node.js" height="25" />
  </div>
 
   <div align="center"><h3 align="center">Tools</h3>
