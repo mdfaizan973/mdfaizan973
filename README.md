@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img padding="20px" src="https://komarev.com/ghpvc/?username=mdfaizan973&&style=flat-square" align="center" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaizan973&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaizan973" /> </p>
  </div>
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
  <h1 align="center">🗽Hello Everyone 🗽</h1>
@@ -24,7 +24,7 @@
 <br/><br/>
 
  <div >
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfaizan973" alt="mdfaizan973" /></a> </p>
 </div>
 <p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
 
@@ -128,8 +128,9 @@
 <h2>## ❤️ Let's get connected:</h2>
 
  <p align='center'>
-   <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a  target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+<a  target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
+  <a href="https://instagram.com/crick_faizan973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crick_faizan973" height="30" width="40" /></a>
 </p>
 
   <br/>
@@ -137,3 +138,9 @@
 </div>
 <br/><br/><br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+
+
+
+
+
+
