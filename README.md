@@ -110,7 +110,7 @@
  <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
 <img  height="172px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/a3f0797e-71b4-4d55-a9f0-a48d058e1ddc" />
   </a>
-  <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
+  <a target="_blank" href="https://clotho.vercel.app/">
 <img  height="182px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/4eac3e09-97c4-4145-9cff-ce4c4ea5c93f" />
   </a>
 </div> 
