@@ -132,7 +132,7 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 </div>
-<h2>## ❤️ Let's get connected:</h2>
+<h2>## ❤️ Let's get connected :</h2>
 
  <p align='center'>
    <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
