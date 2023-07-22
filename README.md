@@ -23,10 +23,13 @@
 
 <br/><br/>
 
+<p align="center"> <img  src="https://media.licdn.com/dms/image/D4D16AQGBBIHXxd6frw/profile-displaybackgroundimage-shrink_350_1400/0/1676113207848?e=1695254400&v=beta&t=4DUrPeY-gR4tUs73tILEGzHrpSWs0LaUeuhDkodekLM" height="250" width="1000"  /> </p>
+<br/><br/>
+
  <div >
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfaizan973" alt="mdfaizan973" /></a> </p>
 </div>
-<p align="center"> <img  src="https://csiac.org/wp-content/uploads/bb-plugin/cache/Capture-1024x567-panorama.png" height="300" width="1000"  /> </p>
+
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
