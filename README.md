@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-
-
-
-
-
-
-    
-
-          
-
-
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaizan973&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaizan973" /> </p>
  </div>
@@ -100,7 +89,7 @@
 </a>
 
 <a target="_blank" href="https://spectacular-entremet-a93f43.netlify.app/index.html">
- <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" alt="mdfaizan973" />
+ <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/b4f8b95b-6ba4-44c8-9baf-f35bcaccf962" alt="mdfaizan973" />
  </a>
 
 <a target="_blank" href="https://fzshoes.netlify.app/">
