@@ -85,7 +85,7 @@
 
 <div align= "center"  display="flex" > 
 <a target="_blank" href="https://my-skincares.netlify.app/index.html"> 
- <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" alt="mdfaizan973" />
+ <img style="width: 25%;  height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" alt="mdfaizan973" />
 </a>
 
 <a target="_blank" href="https://spectacular-entremet-a93f43.netlify.app/index.html">
