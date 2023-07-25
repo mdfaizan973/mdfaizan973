@@ -136,30 +136,30 @@
  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" alt="mdfaizan973" />
  </a>
 
-<a target="_blank" href="https://my-skincares.netlify.app/index.html">
+<a target="_blank" href="https://fzshoes.netlify.app/">
  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" alt="mdfaizan973" />
  </a>
 
 
-<a target="_blank" href="https://fzshoes.netlify.app/">
+<a target="_blank" href="https://flowerfz.netlify.app/"> 
  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/221214462-36c35e3a-f00e-4c5f-a874-aadc6a6503d2.png" alt="mdfaizan973" />
  </a>
 
-<a target="_blank" href="https://flowerfz.netlify.app/l"> 
+<a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/"> 
   <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/229482067-fc289bf3-4d15-478c-81ea-aebd54b5950e.jpg" alt="mdfaizan973" />
 </a>
 
 
-<a target="_blank" href="https://my-skincares.netlify.app/index.html"> 
+<a target="_blank" href="https://clotho.vercel.app/">
  <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/4eac3e09-97c4-4145-9cff-ce4c4ea5c93f" alt="mdfaizan973" />
 </a>
 
-<a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/"> 
+<a target="_blank" href="https://frontend-iota-blond.vercel.app/"> 
   <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/a3f0797e-71b4-4d55-a9f0-a48d058e1ddc" alt="mdfaizan973" />
 </a>
 
 
-<a target="_blank" href="https://clotho.vercel.app/">
+<a target="_blank" href="[https://clotho.vercel.app/](https://myfashionzonefz.netlify.app/)">
  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/252140237-a6928f13-a65b-4424-90db-14316334cc87.png" alt="mdfaizan973" />
  </a>
 
