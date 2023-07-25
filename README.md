@@ -93,40 +93,7 @@
 <br/>
 <br/>
 <h2>## 💻 My Projects 💻</h2>
-<div align= "center"  display="flex" >
 
- <a target="_blank" href="https://my-skincares.netlify.app/index.html">
- <img height="172px" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" />
-</a>
-   <a target="_blank" href="https://fzshoes.netlify.app/">
- <img  height="172px" src="https://user-images.githubusercontent.com/106812942/214018158-224d47c0-2f3e-4a72-bc00-53ea918e6fdf.png" />
-  </a>
-  <a target="_blank" href="https://spectacular-entremet-a93f43.netlify.app/index.html">
-<img  height="168px" src="https://user-images.githubusercontent.com/106812942/218271324-c3071ba5-560d-4029-bcfe-9263fb982e5d.png" />
-  </a>
-   <a target="_blank" href="https://spectacular-mandazi-b54fe5.netlify.app/">
-<img  height="172px" src="https://user-images.githubusercontent.com/106812942/221214462-36c35e3a-f00e-4c5f-a874-aadc6a6503d2.png" />
-  </a>
-
- <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
-<img  height="172px" src="https://user-images.githubusercontent.com/106812942/229482067-fc289bf3-4d15-478c-81ea-aebd54b5950e.jpg" />
-  </a>
- <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/">
-<img  height="172px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/a3f0797e-71b4-4d55-a9f0-a48d058e1ddc" />
-  </a>
-  <a target="_blank" href="https://clotho.vercel.app/">
-<img  height="182px" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/4eac3e09-97c4-4145-9cff-ce4c4ea5c93f" />
-  </a>
-
-   <a target="_blank" href="https://myfashionzonefz.netlify.app/">
-<img  height="172px" src="https://user-images.githubusercontent.com/106812942/252140237-a6928f13-a65b-4424-90db-14316334cc87.png" />
-  </a>
-
-   <a target="_blank" href="https://yes-5otwzwn11-mdfaizan973.vercel.app/">
-<img  height="172px" src="https://user-images.githubusercontent.com/106812942/255404404-dc6669bc-a638-4d99-95ed-5c4cf2b40cb9.png" />
-  </a>
-</div> 
-------------------------------------
 <div align= "center"  display="flex" > 
 <a target="_blank" href="https://my-skincares.netlify.app/index.html"> 
  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" alt="mdfaizan973" />
