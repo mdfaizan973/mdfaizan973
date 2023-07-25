@@ -159,7 +159,7 @@
 </a>
 
 
-<a target="_blank" href="[https://clotho.vercel.app/](https://myfashionzonefz.netlify.app/)">
+<a target="_blank" href="https://myfashionzonefz.netlify.app/">
  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/252140237-a6928f13-a65b-4424-90db-14316334cc87.png" alt="mdfaizan973" />
  </a>
 
