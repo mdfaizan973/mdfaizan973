@@ -102,7 +102,7 @@
  </a>
 
 <a target="_blank" href="https://incandescent-cassata-f56374.netlify.app/"> 
-  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/229482067-fc289bf3-4d15-478c-81ea-aebd54b5950e.jpg" alt="mdfaizan973" />
+  <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/cef3d828-6e11-4b04-afde-c2a3295666a3" alt="mdfaizan973" />
 </a>
 
 
