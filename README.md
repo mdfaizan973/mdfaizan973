@@ -19,7 +19,7 @@
 - <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/revolving-hearts_1f49e.gif"/> I love designing websites and coding. <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/heart-hands_light-skin-tone_1faf6-1f3fb_1f3fb.png"/>
 
 <!-- <img width="20" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> -->
-- <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="blank">LinkedIn-➡️</a>
+- <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="blank">LinkedIn➡️</a>
 
 <br/><br/>
 
