@@ -3,7 +3,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaizan973&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaizan973" /> </p>
  </div>
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...🏻‍💻;" style="width: 100%;">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Md+Faizan!;Full+Stack-Web+Developer...;" style="width: 100%;">
  <h1 align="center">🗽Hello Everyone 🗽</h1>
 <h3 align="center"><img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/>A passionate Full-Stack Developer from India <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/327/flag-india_1f1ee-1f1f3.png"/></h3>
 
