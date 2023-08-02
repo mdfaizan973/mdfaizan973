@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<p align="center"> <img  src="https://media.licdn.com/dms/image/D4D16AQGBBIHXxd6frw/profile-displaybackgroundimage-shrink_350_1400/0/1676113207848?e=1695254400&v=beta&t=4DUrPeY-gR4tUs73tILEGzHrpSWs0LaUeuhDkodekLM" height="250" width="1000"  /> </p>
+<p align="center"> <img  src="https://media.licdn.com/dms/image/D4D16AQGBBIHXxd6frw/profile-displaybackgroundimage-shrink_350_1400/0/1676113207848?e=1695254400&v=beta&t=4DUrPeY-gR4tUs73tILEGzHrpSWs0LaUeuhDkodekLM" height="225" width="1000"  /> </p>
 <br/><br/>
 
  <div >
