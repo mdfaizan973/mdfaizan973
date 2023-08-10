@@ -1,4 +1,4 @@
-# Hi  👋👋
+# Hi Friends 👋👋
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaizan973&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaizan973" /> </p>
  </div>
