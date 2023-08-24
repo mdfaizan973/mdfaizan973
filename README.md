@@ -117,7 +117,7 @@
 
 
 <a target="_blank" href="https://myfashionzonefz.netlify.app/">
- <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/252140237-a6928f13-a65b-4424-90db-14316334cc87.png" alt="mdfaizan973" />
+ <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/262247221-6b79b2f0-da86-4fcb-b4f7-8abe6439712e.png" alt="mdfaizan973" />
  </a>
 
 <a target="_blank" href="https://yes-5otwzwn11-mdfaizan973.vercel.app/"> 
