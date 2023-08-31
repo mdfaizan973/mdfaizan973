@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
 
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hourglass-not-done_23f3.png"/> I’m currently working on **MySkill** <img width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-juggling-medium-light-skin-tone_1f939-1f3fc-200d-2640-fe0f.png"/>
+ I’m currently working on **MySkill** 
 - <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif"/> I’m currently learning 👨‍💻 <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-halo_1f607.gif"/> **Full-Stack Web Development**   <img width=25 src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/collision_1f4a5.gif"/>
 - 💬 Ask me about <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hugging-face_1f917.png"/> **Front-End** <img width="27" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-surfing-medium-light-skin-tone_1f3c4-1f3fc-200d-2640-fe0f.png"/>
 - <img  width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/facebook/327/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png"/> Some of my projects are available at [[My Portfolio](https://mdfaizan973.github.io/)]
