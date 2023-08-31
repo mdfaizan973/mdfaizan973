@@ -50,7 +50,7 @@
    <img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
    <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
    <img src="https://img.shields.io/badge/ChakaraUI -282C34?logo=chakraui&logoColor=61DAFB" alt="React  logo" title="React" height="25" />
-   <img src="https://img.shields.io/badge/TelwindCSS -282C34?logo=telwindcss&logoColor=61DAFB" alt="React  logo" title="React" height="25" />
+   <img src="https://img.shields.io/badge/TelwindCSS -282C34?logo=telwindcss&logoColor=61DAFB" alt="React  logo" title="React" height="25" /><br/>
 <img src="https://img.shields.io/badge/bootstrap-282C34?logo=bootstrap&logoColor=blue" alt="React  logo" title="React" height="25" />
 </div>
  <br/>
