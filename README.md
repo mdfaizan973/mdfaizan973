@@ -152,7 +152,7 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a> 
 
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaizan973&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) -->
 
 <br/><br/><br/><br/><br/>
 
