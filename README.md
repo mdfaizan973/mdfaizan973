@@ -1,4 +1,4 @@
-# Hi Friends 👋 
+# <h1 align="center"> Hi Friends 👋 </h1>
 
 
 <!--<p align="center">
