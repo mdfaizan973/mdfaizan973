@@ -42,7 +42,7 @@ I'm a passionate developer with a love for Full-Stack Web Development, and I'm c
 🚀 Check out some of my projects in my [portfolio](https://mdfaizan973.github.io/).
 
 ### My Experience
-📄 Learn more about my professional journey by viewing my [resume](your-resume-link).
+📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/17ti5ypZ77muuZC6yulNyPwNkgbKfpEM2/view).
 
 ### Get in Touch
 📧 You can reach me at **faizan.md9735@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
