@@ -88,6 +88,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 <br/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="React  logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components logo" title="Styled Components" height="25" />
+
 </div>
  <br/>
 <div align="center"><h3 align="center">Backend</h3> 
@@ -95,28 +97,30 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="node.js  logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongo DB  logo" title="Node.js" height="25" />
 </div>
-
-
-  <div align="center"><h3 align="center">Tools</h3>
-    <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="netlify logo" title="Netlyfi" height="25" />
-  <img src="https://img.shields.io/badge/postman-282C34?logo=Postman&logoColor=E34F26" alt="HTML5 logo" title="Postman" height="25" />
-     <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="HTML5 logo" title="Postman" height="25" />
-   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-    <img src="https://img.shields.io/badge/codepen-282C34?logo=codepen&logoColor=white" alt="codepen logo" title="codepen" height="25" />
-    <img src="https://img.shields.io/badge/replit-282C34?logo=replit&logoColor=white" alt="replit logo" title="replit" height="25" />
+<br/>
+  <div align="center">
+   <h3 align="center">Development Tools and Platforms</h3>
+   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="25" />
+   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />
+<br/>
+   <br/>
+  <img src="https://img.shields.io/badge/Postman-E34F26?logo=postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />
+  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify logo" title="Netlify" height="25" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25" />
+  <img src="https://img.shields.io/badge/Render-1A3D59?logo=render&logoColor=white" alt="Render logo" title="Render" height="25" />
+   <br/> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+  <img src="https://img.shields.io/badge/Codepen-282C34?logo=codepen&logoColor=white" alt="Codepen logo" title="Codepen" height="25" />
+  <img src="https://img.shields.io/badge/Replit-282C34?logo=replit&logoColor=white" alt="Replit logo" title="Replit" height="25" />
+  <img src="https://img.shields.io/badge/CodeSandbox-000000?logo=codesandbox&logoColor=white" alt="CodeSandbox logo" title="CodeSandbox" height="25" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion logo" title="Notion" height="25" />
    <br/>
 <br/>
-<!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
  </div>
-<!-- <div width="2000"><img src="https://github-trophies.vercel.app/?username=mdfaizan973&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></div> -->
-
 </div>
-
 <br/>
 <br/>
-
-
-
 <br/>
 <br/>
 <h2>## 💻 My Projects 💻</h2>
