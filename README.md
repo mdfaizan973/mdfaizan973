@@ -156,6 +156,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
   <a target="_blank" href="https://food-fz.netlify.app/"> 
   <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/2f44806a-ff7e-4738-992b-874d613e713d" alt="food" />
   </a>
+
+   <a target="_blank" href="https://organicstore.vercel.app/"> 
+  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/278866276-08e3e6cb-0648-4adb-a9fa-891a98e27d33.png" alt="food" />
+  </a>
 </div>
  
 
@@ -178,10 +182,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
   <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
 
 <!--Total Streek [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaizan973&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) -->
-
 <br/><br/>
-
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
@@ -190,20 +191,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 
 <h2>## ❤️ Let's get connected :</h2>
 
- <p align='center'>
-   <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
-<a  target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
-  <a href="https://instagram.com/crick_faizan973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crick_faizan973" height="30" width="40" /></a>
+<p align='center'>
+  <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+  <a target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
+  <a target="_blank" href="https://instagram.com/crick_faizan973"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crick_faizan973" /></a>
 </p>
-
-  <br/>
+<br/>
 
 </div>
 <br/><br/><br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
-
-
-
-
-
-
