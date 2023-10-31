@@ -1,7 +1,7 @@
 # <h1 align="center"> Hii Friends 💝  </h1>
 
 
-
+<!-- Chart -->
 <!--<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfaizan973&theme=algolia">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdfaizan973&theme=algolia">
@@ -19,17 +19,6 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
-<!--
-- I’m currently working on **MySkill** 
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif"/> I’m currently learning 👨‍💻 <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-halo_1f607.gif"/> **Full-Stack Web Development**   <img width=25 src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/collision_1f4a5.gif"/>
-- 💬 Ask me about <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hugging-face_1f917.png"/> **Front-End** <img width="27" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-surfing-medium-light-skin-tone_1f3c4-1f3fc-200d-2640-fe0f.png"/>
-- <img  width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/facebook/327/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png"/> Some of my projects are available at [[My Portfolio](https://mdfaizan973.github.io/)]
--  📄 Know about my experiences [My Resume] <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/bomb_1f4a3.png"/>
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png"/> How to reach me: ...**faizan.md9735@gmail.com** <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/love-letter_1f48c.png"/>
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face_1f609.png"/> Fun fact: ...Always smile <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rolling-on-the-floor-laughing_1f923.png"/> in tough situation <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/face-with-spiral-eyes_1f635-200d-1f4ab.gif"/>
-- <img width="20" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/revolving-hearts_1f49e.gif"/> I love designing websites and coding. <img width="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/heart-hands_light-skin-tone_1faf6-1f3fb_1f3fb.png"/>-->
-
-<!-- <img width="20" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> -->
 <div  >
 # Hi, I'm Faizan! 👋
 
@@ -57,8 +46,6 @@ I'm a passionate developer with a love for Full-Stack Web Development, and I'm c
 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) ➡️
 
 </div>
-
-<br/><br/>
 
 <br/><br/>
 
@@ -181,25 +168,23 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 
 
  <h2 align="center">🗽 My Github Stats</h2>
-<p align="">
+
  <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan973&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
  
  
  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan973&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
 
+ 
+  <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a> 
+<!--Total Streek [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaizan973&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaizan973&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) -->
+<br/><br/>
 
-<br/><br/><br/><br/><br/>
 
-<a target="_blank" ><img alt="Faizan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdfaizan973&theme=react-dark&hide_border=true" /></a>
-
-<h1 align='center'>⚡️<i>Github Streak!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 </div>
 
