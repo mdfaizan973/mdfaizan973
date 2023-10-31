@@ -80,6 +80,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
 <br/>
 <br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React Native logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/React_Router-E34F26?logo=react-router&logoColor=white" alt="react logo" title="React Router" height="25" />
 <img src="https://img.shields.io/badge/Axios-764ABC?logo=axios&logoColor=white" alt="Redux logo" title="Redux" height="25" />
