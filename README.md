@@ -85,9 +85,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <img src="https://img.shields.io/badge/React_Router-E34F26?logo=react-router&logoColor=white" alt="react logo" title="React Router" height="25" />
 <img src="https://img.shields.io/badge/Axios-764ABC?logo=axios&logoColor=white" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />
+<br/>
 <img src="https://img.shields.io/badge/ChakraUI-61DAFB?logo=chakraui&logoColor=white" alt="React  logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-<br/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="React  logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components logo" title="Styled Components" height="25" />
 
