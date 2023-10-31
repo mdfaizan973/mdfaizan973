@@ -1,6 +1,7 @@
 # <h1 align="center"> Hii Friends 💝  </h1>
 
 
+
 <!--<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfaizan973&theme=algolia">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdfaizan973&theme=algolia">
@@ -71,28 +72,30 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 
 <div align="center">
 
- <div align="center"><h3 align="center">Frontend</h3>
+<div align="center"><h3 align="center">Frontend</h3>
 
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" /> -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/React -282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />
-   <img src="https://img.shields.io/badge/React_Router-282C34?logo=react-router&logoColor=E34F26" alt="react logo" title="React Router" height="25" />
-   <img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-   <img src="https://img.shields.io/badge/ChakaraUI -282C34?logo=chakraui&logoColor=61DAFB" alt="React  logo" title="React" height="25" />
-   <img src="https://img.shields.io/badge/TelwindCSS -282C34?logo=telwindcss&logoColor=61DAFB" alt="React  logo" title="React" height="25" /><br/>
-<img src="https://img.shields.io/badge/bootstrap-282C34?logo=bootstrap&logoColor=blue" alt="React  logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React Native logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/React_Router-E34F26?logo=react-router&logoColor=white" alt="react logo" title="React Router" height="25" />
+<img src="https://img.shields.io/badge/Axios-764ABC?logo=axios&logoColor=white" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/ChakraUI-61DAFB?logo=chakraui&logoColor=white" alt="React  logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
+<br/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="React  logo" title="React" height="25" />
 </div>
  <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-    <img src="https://img.shields.io/badge/Node js -282C34?logo=node.js&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/Express.js -282C34?logo=express&logoColor=green" alt="node.js  logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/MongoDB -282C34?logo=mongodb&logoColor=darkgreen" alt="mongo DB  logo" title="Node.js" height="25" />
- </div>
+<div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="node.js  logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="node.js  logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongo DB  logo" title="Node.js" height="25" />
+</div>
+
 
   <div align="center"><h3 align="center">Tools</h3>
     <img src="https://img.shields.io/badge/netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="netlify logo" title="Netlyfi" height="25" />
