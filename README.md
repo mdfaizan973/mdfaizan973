@@ -1,4 +1,4 @@
-# <h1 align="center"> HiFriends💝 </h1>
+# <h1 align="center"> Hii Friends💝 </h1>
 
 <!-- Chart -->
 <!--<p align="center">
