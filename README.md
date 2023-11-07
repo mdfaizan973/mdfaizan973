@@ -110,7 +110,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <br/>
 <br/>
 <br/>
-<h2>## 💻 My Projects 💻</h2>
+<h2  align="center">## 💻 My Projects 💻</h2>
 
 <div align= "center"  display="flex" > 
 <a target="_blank" href="https://my-skincares.netlify.app/index.html"> 
