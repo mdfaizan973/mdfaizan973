@@ -113,6 +113,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <h2  align="center"> 💻 My Projects 💻</h2>
 
 <div align= "center"  display="flex" > 
+
+  <a target="_blank" href="https://food-fz.netlify.app/"> 
+  <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/2f44806a-ff7e-4738-992b-874d613e713d" alt="food" />
+  </a>
+
+   <a target="_blank" href="https://organicstore.vercel.app/"> 
+  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/278866276-08e3e6cb-0648-4adb-a9fa-891a98e27d33.png" alt="food" />
+  </a>
+  
 <a target="_blank" href="https://my-skincares.netlify.app/index.html"> 
  <img style="width: 25%;  height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/215109393-cfcfb68a-7de0-4554-9380-7d3b65e4f9b6.png" alt="mdfaizan973" />
 </a>
@@ -152,13 +161,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
   <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/255404404-dc6669bc-a638-4d99-95ed-5c4cf2b40cb9.png" alt="mdfaizan973" />
   </a>
 
-  <a target="_blank" href="https://food-fz.netlify.app/"> 
-  <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/2f44806a-ff7e-4738-992b-874d613e713d" alt="food" />
-  </a>
-
-   <a target="_blank" href="https://organicstore.vercel.app/"> 
-  <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/278866276-08e3e6cb-0648-4adb-a9fa-891a98e27d33.png" alt="food" />
-  </a>
 </div>
  
 
