@@ -163,7 +163,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <a target="_blank" href="https://yes-5otwzwn11-mdfaizan973.vercel.app/"> 
   <img style="width: 25%; height: auto; cursor: pointer" src="https://user-images.githubusercontent.com/106812942/255404404-dc6669bc-a638-4d99-95ed-5c4cf2b40cb9.png" alt="mdfaizan973" />
   </a>
-![Screenshot (1931)]()
+
 
 <a target="_blank" href="https://faizanlms.vercel.app/"> 
   <img style="width: 25%; height: auto; cursor: pointer" src="https://github.com/mdfaizan973/mdfaizan973/assets/106812942/e3961bca-d6bc-49ac-a652-8d1d7cd8707b" alt="mdfaizan973" />
