@@ -181,7 +181,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 
  <h2 align="center">🗽 My Github Stats</h2>
 
- <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan973&exclude_repo=NEBULA,NEBULA_BACKEND,nb,RockPaperScissors&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+ <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan973&exclude_repo=NEBULA,NEBULA_BACKEND,nb,RockPaperScissors&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=4&hide=hack,swift,kotlin,objective-c"/>
  
  
  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan973&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
