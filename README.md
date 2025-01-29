@@ -28,8 +28,8 @@ I'm a passionate developer with a love for Full-Stack Web Development, and I'm c
 💬 Ask me about my expertise in **Front-End** development, or if you have any questions, feel free to reach out.
 
 ### My Portfolio
-🚀 Check out some of my projects in my [portfolio](https://mdfaizan973.github.io/).
-🚀 GitHub Profile [https://mdfaizan973.github.io/](https://github.com/mdfaizan973)
+🚀 Check out some of my projects in my [Portfolio](https://mdfaizan973.github.io/).
+🚀 GitHub Profile [GitHub](https://github.com/mdfaizan973)
 
 ### My YouTube Channel
 💻 Learn new things on [Youtube](https://www.youtube.com/watch?v=XeiiNZstW0E&list=PL3HjWKldsSxWUHJb6nkAT7HaXKWLF-9C5).
