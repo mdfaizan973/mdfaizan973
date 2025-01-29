@@ -29,6 +29,7 @@ I'm a passionate developer with a love for Full-Stack Web Development, and I'm c
 
 ### My Portfolio
 🚀 Check out some of my projects in my [portfolio](https://mdfaizan973.github.io/).
+🚀 GitHub Profile [https://mdfaizan973.github.io/](https://github.com/mdfaizan973)
 
 ### My YouTube Channel
 💻 Learn new things on [Youtube](https://www.youtube.com/watch?v=XeiiNZstW0E&list=PL3HjWKldsSxWUHJb6nkAT7HaXKWLF-9C5).
