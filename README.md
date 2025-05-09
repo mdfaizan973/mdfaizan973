@@ -56,64 +56,53 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfaizan973" alt="mdfaizan973" /></a> </p>
 </div>
 
-
-<h2 align="center">🚀 Languages and Tools:</h2>
-<br/>
-
 <div align="center">
 
-<div align="center"><h3 align="center">Frontend</h3>
+## <h2 align="center">🚀 Languages and Tools:</h2>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React Native logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/React_Router-E34F26?logo=react-router&logoColor=white" alt="react logo" title="React Router" height="25" />
-<img src="https://img.shields.io/badge/Axios-764ABC?logo=axios&logoColor=white" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />
-<br/>
-<img src="https://img.shields.io/badge/ChakraUI-61DAFB?logo=chakraui&logoColor=white" alt="React  logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-<img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="React  logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components logo" title="Styled Components" height="25" />
+### Frontend
 
-</div>
- <br/>
-<div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="node.js  logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="node.js  logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongo DB  logo" title="Node.js" height="25" />
-</div>
-<br/>
-  <div align="center">
-   <h3 align="center">Development Tools and Platforms</h3>
-   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="25" />
-   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />
-<br/>
-   <br/>
-  <img src="https://img.shields.io/badge/Postman-E34F26?logo=postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />
-  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify logo" title="Netlify" height="25" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25" />
-  <img src="https://img.shields.io/badge/Render-1A3D59?logo=render&logoColor=white" alt="Render logo" title="Render" height="25" />
-   <br/> 
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-  <img src="https://img.shields.io/badge/Codepen-282C34?logo=codepen&logoColor=white" alt="Codepen logo" title="Codepen" height="25" />
-  <img src="https://img.shields.io/badge/Replit-282C34?logo=replit&logoColor=white" alt="Replit logo" title="Replit" height="25" />
-  <img src="https://img.shields.io/badge/CodeSandbox-000000?logo=codesandbox&logoColor=white" alt="CodeSandbox logo" title="CodeSandbox" height="25" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion logo" title="Notion" height="25" />
-   <br/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/ChakraUI-319795?logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-1A3D59?logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen" />
+  <img src="https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/CodeSandbox-000000?logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" />
+</p>
+
 <br/>
  </div>
 </div>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <h2  align="center"> 💻 My Projects 💻</h2>
 
 <div align= "center"  display="flex" > 
@@ -190,20 +179,20 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
  
   <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
 
-<!--Total Streek [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaizan973&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) -->
-<br/><br/>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 </div>
 
-<h2>## ❤️ Let's get connected :</h2>
+<div align="center">
+ 
+## 🌐 Connect with Me
+</div>
 
-<p align='center'>
-  <a target="_blank" href="https://www.linkedin.com/in/md-faizan-380a65246"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
-  <a target="_blank" href="https://twitter.com/MdFaiza59640358"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
-  <a target="_blank" href="https://instagram.com/crick_faizan973"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crick_faizan973" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/MdFaiza59640358" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/crick_faizan973" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 <br/>
 
