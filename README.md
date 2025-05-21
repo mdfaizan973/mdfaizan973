@@ -68,7 +68,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <!-- <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> --!>
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/ChakraUI-319795?logo=chakraui&logoColor=white" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
