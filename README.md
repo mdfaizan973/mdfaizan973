@@ -103,6 +103,68 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
  </div>
 </div>
 
+<div>
+<h2 align="center">🤝 Support</h2>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+
+<h2 align="center">🗽 My GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    alt="Top Languages" 
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan973&exclude_repo=NEBULA,NEBULA_BACKEND,nb,RockPaperScissors&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=4&hide=hack,swift,kotlin,objective-c" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="GitHub Streak" 
+    width="500px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan973&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" 
+    alt="Bottom Design" 
+  />
+</p>
+
+</div>
+
+<div align="center">
+ 
+## 🌐 Connect with Me
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/MdFaiza59640358" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/crick_faizan973" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+<br/>
+
+</div>
+<br/><br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+
+
+
+
+<!--
 <h2  align="center"> 💻 My Projects 💻</h2>
 
 <div align= "center"  display="flex" > 
@@ -160,42 +222,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/md-faizan-380a65246/) 
   </a>
 </div>
  
-
-
-<div>
-<h2 align="center">🤝 Support</h2>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
-
-
- <h2 align="center">🗽 My Github Stats</h2>
-
- <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaizan973&exclude_repo=NEBULA,NEBULA_BACKEND,nb,RockPaperScissors&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=4&hide=hack,swift,kotlin,objective-c"/>
- 
- 
- <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizan973&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
-
- 
-  <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdfaizan973&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-</div>
-
-<div align="center">
- 
-## 🌐 Connect with Me
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-faizan-380a65246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/MdFaiza59640358" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/crick_faizan973" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-<br/>
-
-</div>
-<br/><br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+-->
